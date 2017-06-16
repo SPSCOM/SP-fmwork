@@ -17,12 +17,11 @@ Simple Web Part that demonstrates the use of SharePoint Framework for show casin
 
 ![Screeshot of the Employee Spotlight web part options](./assets/Employee-spotlight-options.png).
  
- Once the user selects all the configuration details, the web part display the spotlight details from the configured list.
+ Once the user selects all the configuration details, the web part displays the spotlight details from the configured list.
 
 ![Screeshot of the Employee Spotlight web part](./assets/Employee-spotlight-priview.png).
 
-> Does only show data when hosted in SharePoint. No mock data at this point for local testing the rendering.
-> To display the spotlight details in webpart, Create the list and add items to it. 
+> Data is displayed only when hosted in SharePoint. No mock data included at this point for local testing. 
 
 ## Used SharePoint Framework Version
 ![drop](https://img.shields.io/badge/drop-GA-green.svg)
